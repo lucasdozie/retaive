@@ -1,0 +1,26 @@
+/*{
+  "expo": {
+    "sdkVersion": "25.0.0"
+  }
+}*/
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "icon": "./assets/app-icon.png",
+    "name": "retailApp",
+    "slug": "retailApp",
+    "privacy": "public",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "com.ifeoluwaking24.retailApp"
+    },
+    "android": {
+      "package": "com.ifeoluwaking24.retailApp"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    }
+  }
+}
